@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="820" viewBox="0 0 1400 820" role="img" aria-labelledby="experimentsTitle" data-rev="2">
+  <title id="experimentsTitle">Current explorations</title>
+
+  <g>
+    <rect x="0" y="0" width="680" height="380" rx="22" fill="#020617"/>
+    <rect x="1" y="1" width="678" height="378" rx="21" fill="none" stroke="#164e63" stroke-width="2"/>
+    <rect x="36" y="42" width="8" height="52" rx="4" fill="#22d3ee"/>
+    <text x="64" y="78" fill="#e2e8f0" font-size="40" font-weight="700" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, monospace">Direct Exchange</text>
+    <text x="52" y="150" fill="#cbd5e1" font-size="30" font-family="Inter, Arial, Helvetica, sans-serif">Private file transfer without a</text>
+    <text x="52" y="192" fill="#cbd5e1" font-size="30" font-family="Inter, Arial, Helvetica, sans-serif">permanent intermediary.</text>
+    <text x="52" y="268" fill="#67e8f9" font-size="24" font-family="JetBrains Mono, ui-monospace, monospace">P2P  |  E2EE  |  ephemeral</text>
+    <text x="52" y="330" fill="#94a3b8" font-size="24" letter-spacing="2" font-family="JetBrains Mono, ui-monospace, monospace">PRIVATE EXPLORATION</text>
+  </g>
+
+  <g>
+    <rect x="720" y="0" width="680" height="380" rx="22" fill="#020617"/>
+    <rect x="721" y="1" width="678" height="378" rx="21" fill="none" stroke="#164e63" stroke-width="2"/>
+    <rect x="756" y="42" width="8" height="52" rx="4" fill="#22d3ee"/>
+    <text x="784" y="78" fill="#e2e8f0" font-size="40" font-weight="700" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, monospace">Data Passport</text>
+    <text x="772" y="150" fill="#cbd5e1" font-size="30" font-family="Inter, Arial, Helvetica, sans-serif">A clear, open description of how</text>
+    <text x="772" y="192" fill="#cbd5e1" font-size="30" font-family="Inter, Arial, Helvetica, sans-serif">software handles data.</text>
+    <text x="772" y="268" fill="#67e8f9" font-size="24" font-family="JetBrains Mono, ui-monospace, monospace">privacy  |  transparency  |  open format</text>
+    <text x="772" y="330" fill="#94a3b8" font-size="24" letter-spacing="2" font-family="JetBrains Mono, ui-monospace, monospace">CONCEPT</text>
+  </g>
+
+  <g>
+    <rect x="0" y="420" width="1400" height="400" rx="22" fill="#020617"/>
+    <rect x="1" y="421" width="1398" height="398" rx="21" fill="none" stroke="#164e63" stroke-width="2"/>
+    <rect x="36" y="462" width="8" height="52" rx="4" fill="#22d3ee"/>
+    <text x="64" y="498" fill="#e2e8f0" font-size="40" font-weight="700" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, monospace">Local Migration</text>
+    <text x="52" y="570" fill="#cbd5e1" font-size="30" font-family="Inter, Arial, Helvetica, sans-serif">Turn closed-platform exports into usable open formats.</text>
+    <text x="52" y="660" fill="#67e8f9" font-size="24" font-family="JetBrains Mono, ui-monospace, monospace">local-only  |  portable  |  no upload</text>
+    <text x="52" y="740" fill="#94a3b8" font-size="24" letter-spacing="2" font-family="JetBrains Mono, ui-monospace, monospace">RESEARCH</text>
+  </g>
+</svg>

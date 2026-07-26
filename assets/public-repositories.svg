@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="980" viewBox="0 0 1400 980" role="img" aria-labelledby="reposTitle">
+  <title id="reposTitle">Public repositories</title>
+  <defs>
+    <linearGradient id="cardBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#020617"/>
+      <stop offset="100%" stop-color="#071426"/>
+    </linearGradient>
+  </defs>
+
+  <!-- youtube-music-enhanced-player -->
+  <g>
+    <rect x="0" y="0" width="1400" height="300" rx="22" fill="url(#cardBg)"/>
+    <rect x="1" y="1" width="1398" height="298" rx="21" fill="none" stroke="#164e63" stroke-width="2"/>
+    <rect x="36" y="40" width="8" height="48" rx="4" fill="#22d3ee"/>
+    <text x="64" y="74" fill="#e2e8f0" font-size="36" font-weight="700" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, monospace">youtube-music-enhanced-player</text>
+    <text x="52" y="130" fill="#cbd5e1" font-size="28" font-family="Inter, Arial, Helvetica, sans-serif">Chrome extension with floating player, Side Panel, synchronized</text>
+    <text x="52" y="168" fill="#cbd5e1" font-size="28" font-family="Inter, Arial, Helvetica, sans-serif">lyrics, enhanced queue controls and playback features for YouTube Music.</text>
+    <text x="52" y="222" fill="#67e8f9" font-size="24" font-family="JetBrains Mono, ui-monospace, monospace">JavaScript  |  chrome-extension  |  youtube-music  |  lyrics</text>
+    <text x="52" y="268" fill="#94a3b8" font-size="22" font-family="JetBrains Mono, ui-monospace, monospace">ACTIVE</text>
+    <text x="220" y="268" fill="#67e8f9" font-size="22" font-family="JetBrains Mono, ui-monospace, monospace">github.com/LeakFlood/youtube-music-enhanced-player</text>
+  </g>
+
+  <!-- tab-out-custom -->
+  <g>
+    <rect x="0" y="340" width="1400" height="300" rx="22" fill="url(#cardBg)"/>
+    <rect x="1" y="341" width="1398" height="298" rx="21" fill="none" stroke="#164e63" stroke-width="2"/>
+    <rect x="36" y="380" width="8" height="48" rx="4" fill="#22d3ee"/>
+    <text x="64" y="414" fill="#e2e8f0" font-size="36" font-weight="700" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, monospace">tab-out-custom</text>
+    <text x="52" y="470" fill="#cbd5e1" font-size="28" font-family="Inter, Arial, Helvetica, sans-serif">Custom Chrome new tab workflow dashboard with shortcuts, saved</text>
+    <text x="52" y="508" fill="#cbd5e1" font-size="28" font-family="Inter, Arial, Helvetica, sans-serif">sessions, Chrome groups, tab cleanup, weather, and FR/EN support.</text>
+    <text x="52" y="562" fill="#67e8f9" font-size="24" font-family="JetBrains Mono, ui-monospace, monospace">JavaScript  |  chrome-extension  |  new-tab-page  |  productivity</text>
+    <text x="52" y="608" fill="#94a3b8" font-size="22" font-family="JetBrains Mono, ui-monospace, monospace">ACTIVE</text>
+    <text x="220" y="608" fill="#67e8f9" font-size="22" font-family="JetBrains Mono, ui-monospace, monospace">github.com/LeakFlood/tab-out-custom</text>
+  </g>
+
+  <!-- PlaylistForge -->
+  <g>
+    <rect x="0" y="680" width="1400" height="300" rx="22" fill="url(#cardBg)"/>
+    <rect x="1" y="681" width="1398" height="298" rx="21" fill="none" stroke="#164e63" stroke-width="2"/>
+    <rect x="36" y="720" width="8" height="48" rx="4" fill="#22d3ee"/>
+    <text x="64" y="754" fill="#e2e8f0" font-size="36" font-weight="700" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, monospace">PlaylistForge</text>
+    <text x="52" y="810" fill="#cbd5e1" font-size="28" font-family="Inter, Arial, Helvetica, sans-serif">Fast cross-platform YouTube video and playlist downloader for</text>
+    <text x="52" y="848" fill="#cbd5e1" font-size="28" font-family="Inter, Arial, Helvetica, sans-serif">MP3 and MP4, built in Rust with yt-dlp and FFmpeg.</text>
+    <text x="52" y="902" fill="#67e8f9" font-size="24" font-family="JetBrains Mono, ui-monospace, monospace">Rust  |  youtube-downloader  |  yt-dlp  |  ffmpeg</text>
+    <text x="52" y="948" fill="#94a3b8" font-size="22" font-family="JetBrains Mono, ui-monospace, monospace">ACTIVE</text>
+    <text x="220" y="948" fill="#67e8f9" font-size="22" font-family="JetBrains Mono, ui-monospace, monospace">github.com/LeakFlood/PlaylistForge</text>
+  </g>
+</svg>

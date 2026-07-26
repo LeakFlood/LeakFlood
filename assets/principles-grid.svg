@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="720" viewBox="0 0 1400 720" role="img" aria-labelledby="principlesTitle">
+  <title id="principlesTitle">Core principles</title>
+  <defs>
+    <filter id="cardShadow" x="-2%" y="-2%" width="104%" height="108%">
+      <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+
+  <!-- Card 1: Local by default -->
+  <g filter="url(#cardShadow)">
+    <rect x="0" y="0" width="680" height="340" rx="22" fill="#020617"/>
+    <rect x="1" y="1" width="678" height="338" rx="21" fill="none" stroke="#164e63" stroke-width="2"/>
+    <rect x="36" y="42" width="8" height="52" rx="4" fill="#22d3ee"/>
+    <text x="64" y="78" fill="#e2e8f0" font-size="42" font-weight="700" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, monospace">Local by default</text>
+    <text x="64" y="150" fill="#cbd5e1" font-size="30" font-family="Inter, Arial, Helvetica, sans-serif">Data should stay close to the</text>
+    <text x="64" y="190" fill="#cbd5e1" font-size="30" font-family="Inter, Arial, Helvetica, sans-serif">person who created it.</text>
+    <text x="64" y="250" fill="#94a3b8" font-size="26" font-family="Inter, Arial, Helvetica, sans-serif">Remote processing only when justified.</text>
+  </g>
+
+  <!-- Card 2: Designed for people -->
+  <g filter="url(#cardShadow)">
+    <rect x="720" y="0" width="680" height="340" rx="22" fill="#020617"/>
+    <rect x="721" y="1" width="678" height="338" rx="21" fill="none" stroke="#164e63" stroke-width="2"/>
+    <rect x="756" y="42" width="8" height="52" rx="4" fill="#22d3ee"/>
+    <text x="784" y="78" fill="#e2e8f0" font-size="42" font-weight="700" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, monospace">Designed for people</text>
+    <text x="784" y="150" fill="#cbd5e1" font-size="30" font-family="Inter, Arial, Helvetica, sans-serif">Complex systems should create</text>
+    <text x="784" y="190" fill="#cbd5e1" font-size="30" font-family="Inter, Arial, Helvetica, sans-serif">simple, clear experiences.</text>
+    <text x="784" y="250" fill="#94a3b8" font-size="26" font-family="Inter, Arial, Helvetica, sans-serif">UX is part of the architecture.</text>
+  </g>
+
+  <!-- Card 3: Open foundations -->
+  <g filter="url(#cardShadow)">
+    <rect x="0" y="380" width="680" height="340" rx="22" fill="#020617"/>
+    <rect x="1" y="381" width="678" height="338" rx="21" fill="none" stroke="#164e63" stroke-width="2"/>
+    <rect x="36" y="422" width="8" height="52" rx="4" fill="#22d3ee"/>
+    <text x="64" y="458" fill="#e2e8f0" font-size="42" font-weight="700" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, monospace">Open foundations</text>
+    <text x="64" y="530" fill="#cbd5e1" font-size="30" font-family="Inter, Arial, Helvetica, sans-serif">Software should remain inspectable,</text>
+    <text x="64" y="570" fill="#cbd5e1" font-size="30" font-family="Inter, Arial, Helvetica, sans-serif">portable and replaceable.</text>
+    <text x="64" y="630" fill="#94a3b8" font-size="26" font-family="Inter, Arial, Helvetica, sans-serif">Open formats matter too.</text>
+  </g>
+
+  <!-- Card 4: Built to evolve -->
+  <g filter="url(#cardShadow)">
+    <rect x="720" y="380" width="680" height="340" rx="22" fill="#020617"/>
+    <rect x="721" y="381" width="678" height="338" rx="21" fill="none" stroke="#164e63" stroke-width="2"/>
+    <rect x="756" y="422" width="8" height="52" rx="4" fill="#22d3ee"/>
+    <text x="784" y="458" fill="#e2e8f0" font-size="42" font-weight="700" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, monospace">Built to evolve</text>
+    <text x="784" y="530" fill="#cbd5e1" font-size="30" font-family="Inter, Arial, Helvetica, sans-serif">Scalability should preserve clarity.</text>
+    <text x="784" y="590" fill="#94a3b8" font-size="26" font-family="Inter, Arial, Helvetica, sans-serif">Growth without unnecessary opacity.</text>
+  </g>
+</svg>

@@ -145,15 +145,15 @@ Scalability should preserve clarity.
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/LeakFlood/PROFILE-PREVIEW/output/github-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/LeakFlood/LeakFlood/output/github-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/LeakFlood/PROFILE-PREVIEW/output/github-snake.svg"
+    srcset="https://raw.githubusercontent.com/LeakFlood/LeakFlood/output/github-snake.svg"
   />
   <img
     alt="LeakFlood public contribution trace"
-    src="https://raw.githubusercontent.com/LeakFlood/PROFILE-PREVIEW/output/github-snake.svg"
+    src="https://raw.githubusercontent.com/LeakFlood/LeakFlood/output/github-snake.svg"
     width="90%"
   />
 </picture>

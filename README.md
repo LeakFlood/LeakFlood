@@ -13,7 +13,7 @@
 
 ### Building useful software without taking control away from the user.
 
-<sub>A secondary space for selected projects, experiments and intentionally published work — not my primary GitHub account.</sub>
+<sub>A fun secondary space for selected projects, experiments and intentionally published work — not my primary GitHub account.</sub>
 
 </div>
 
@@ -50,7 +50,7 @@ Scalability should preserve clarity.
 </tr>
 </table>
 
-## Current explorations
+## Concepts & explorations
 
 <details>
 <summary><strong>Direct Exchange</strong> — private file transfer without a permanent intermediary</summary>
@@ -106,7 +106,7 @@ Scalability should preserve clarity.
 >
 > Projects become public when they are coherent enough to be understood, used and improved — not simply to remain visible.
 
-## Public repositories
+## Active projects
 
 <p align="center">
   <a href="https://github.com/LeakFlood/youtube-music-enhanced-player">
@@ -145,6 +145,10 @@ Scalability should preserve clarity.
     />
   </a>
 </p>
+
+## Currently building with
+
+<code>Python</code> · <code>TypeScript</code> · <code>Rust</code> · <code>JavaScript</code> · <code>Docker</code>
 
 ## Contribution trace
 

@@ -148,7 +148,15 @@ Scalability should preserve clarity.
 
 ## Currently building with
 
-<code>Python</code> · <code>FastAPI</code> · <code>REST APIs</code> · <code>TypeScript</code> · <code>Rust</code> · <code>JavaScript</code> · <code>Docker</code>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/REST%20APIs-0E7490?style=flat-square&logo=swagger&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+</p>
 
 ## Contribution trace
 

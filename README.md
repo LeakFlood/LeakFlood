@@ -148,7 +148,7 @@ Scalability should preserve clarity.
 
 ## Currently building with
 
-<code>Python</code> · <code>TypeScript</code> · <code>Rust</code> · <code>JavaScript</code> · <code>Docker</code>
+<code>Python</code> · <code>FastAPI</code> · <code>REST APIs</code> · <code>TypeScript</code> · <code>Rust</code> · <code>JavaScript</code> · <code>Docker</code>
 
 ## Contribution trace
 
